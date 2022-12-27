@@ -1,0 +1,45 @@
+C:\Users\Bozovac\Desktop\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.csprojAssemblyReference.cache
+C:\Users\Bozovac\Desktop\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.LogIn.resources
+C:\Users\Bozovac\Desktop\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.PlannerMain.resources
+C:\Users\Bozovac\Desktop\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.Properties.Resources.resources
+C:\Users\Bozovac\Desktop\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.csproj.GenerateResource.cache
+C:\Users\Bozovac\Desktop\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.csproj.CoreCompileInputs.cache
+C:\Users\Bozovac\Desktop\Vizuelno programiranje\Planner\Planner\bin\Debug\Planner.exe.config
+C:\Users\Bozovac\Desktop\Vizuelno programiranje\Planner\Planner\bin\Debug\Planner.exe
+C:\Users\Bozovac\Desktop\Vizuelno programiranje\Planner\Planner\bin\Debug\Planner.pdb
+C:\Users\Bozovac\Desktop\Vizuelno programiranje\Planner\Planner\bin\Debug\DataLayer.dll
+C:\Users\Bozovac\Desktop\Vizuelno programiranje\Planner\Planner\bin\Debug\DataLayer.pdb
+C:\Users\Bozovac\Desktop\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.csproj.CopyComplete
+C:\Users\Bozovac\Desktop\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.exe
+C:\Users\Bozovac\Desktop\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.pdb
+C:\Users\Bozovac\Desktop\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.Add.resources
+C:\Users\Bozovac\Desktop\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.Update.resources
+C:\Users\WIN 10\Desktop\Vizuelno programiranje\Planner\Planner\bin\Debug\Planner.exe.config
+C:\Users\WIN 10\Desktop\Vizuelno programiranje\Planner\Planner\bin\Debug\Planner.exe
+C:\Users\WIN 10\Desktop\Vizuelno programiranje\Planner\Planner\bin\Debug\Planner.pdb
+C:\Users\WIN 10\Desktop\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Desktop\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.csproj.SuggestedBindingRedirects.cache
+C:\Users\WIN 10\Desktop\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.Add.resources
+C:\Users\WIN 10\Desktop\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.LogIn.resources
+C:\Users\WIN 10\Desktop\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.PlannerMain.resources
+C:\Users\WIN 10\Desktop\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.Properties.Resources.resources
+C:\Users\WIN 10\Desktop\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.Update.resources
+C:\Users\WIN 10\Desktop\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.csproj.GenerateResource.cache
+C:\Users\WIN 10\Desktop\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Desktop\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.exe
+C:\Users\WIN 10\Desktop\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.pdb
+C:\Users\WIN 10\Desktop\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.Delete.resources
+E:\FAKULTET\7 semestar\Vizuelno programiranje\Planner\Planner\bin\Debug\Planner.exe.config
+E:\FAKULTET\7 semestar\Vizuelno programiranje\Planner\Planner\bin\Debug\Planner.exe
+E:\FAKULTET\7 semestar\Vizuelno programiranje\Planner\Planner\bin\Debug\Planner.pdb
+E:\FAKULTET\7 semestar\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.csproj.AssemblyReference.cache
+E:\FAKULTET\7 semestar\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.Add.resources
+E:\FAKULTET\7 semestar\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.Delete.resources
+E:\FAKULTET\7 semestar\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.LogIn.resources
+E:\FAKULTET\7 semestar\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.PlannerMain.resources
+E:\FAKULTET\7 semestar\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.Properties.Resources.resources
+E:\FAKULTET\7 semestar\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.Update.resources
+E:\FAKULTET\7 semestar\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.csproj.GenerateResource.cache
+E:\FAKULTET\7 semestar\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.csproj.CoreCompileInputs.cache
+E:\FAKULTET\7 semestar\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.exe
+E:\FAKULTET\7 semestar\Vizuelno programiranje\Planner\Planner\obj\Debug\Planner.pdb
